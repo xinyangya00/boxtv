@@ -1,0 +1,72 @@
+{
+    "urls": [
+        {
+            "url": "http://freeservices.dns.army:8088/tvboxqq/duoduo/api.json"，
+            "name": "📢家庭线路1📢"
+        }，
+        {
+            "url": "http://freeservices.dns.army:8088/tvboxqq/dongmanpingdao/api.json"，
+            "name": "💖动漫频道💖"
+        }，
+        {
+            "url": "http://freeservices.dns.army:8088/tvbox/fengmi/fengmi.json"，
+            "name": "👇fengmi👇"
+        }，
+        {
+            "url": "https://la.kstore.space/download/2863/01.txt"，
+            "name": "🌟萧洒🌟"
+        }，
+        {
+            "url": "http://home.jundie.top:81/top98.json"，
+            "name": "🌟俊佬🌟"
+        }，
+        {
+            "url": "http://freeservices.dns.army:8088/tvbox/fty/fty.json"，
+            "name": "🌟饭太硬🌟"
+        }，
+        {
+            "url": "http://freeservices.dns.army:8088/tvboxqq/shaoerpingdao/api.json"，
+            "name": "🌟少儿频道🌟"
+        }，
+        {
+            "url": "http://freeservices.dns.army:8088/tvbox/xiaomi/xiaomi.json"，
+            "name": "🌟小米🌟"
+        }，
+        {
+            "url": "http://freeservices.dns.army:8088/tvboxqq/feimao/api.json"，
+            "name": "🌟肥猫🌟"
+        }，
+        {
+            "url": "http://freeservices.dns.army:8088/tvbox/cainisi/cainisi.json"，
+            "name": "🌟菜妮丝🌟"
+        }，
+        {
+            "url": "http://freeservices.dns.army:8088/tvboxqq/qiaoer/api.json"，
+            "name": "🌟巧儿🌟"
+        }，
+        {
+            "url": "http://freeservices.dns.army:8088/tvboxqq/gtlsjs/api.json"，
+            "name": "🌟高山流水1🌟"
+        }，
+        {
+            "url": "http://freeservices.dns.army:8088/tvboxqq/gtlsxyq/api.json"，
+            "name": "🌟高山流水2🌟"
+        }，
+        {
+            "url": "https://100km.top/0"，
+            "name": "🌟纯1骚0🌟"
+        }，
+        {
+            "url": "http://freeservices.dns.army:8088/tvboxqq/daozhangjs/api.json"，
+            "name": "🌟道长🌟"
+        }，
+        {
+            "url": "https://cn.kstore.space/download/2883/0110.txt"，
+            "name": "🌟蚂蚁🌟"
+        }，
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/newenergy2000/TVBox/main/tv4k.json"，
+            "name": "🌟爱TV吧🌟"
+        }
+    ]
+}
