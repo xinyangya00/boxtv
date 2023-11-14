@@ -65,10 +65,6 @@
             "name": "🌟道长🌟"
         },
         {
-            "url": "https://cn.kstore.space/download/2883/0110.txt",
-            "name": "🌟蚂蚁🌟"
-        },
-        {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/newenergy2000/TVBox/main/tv4k.json",
             "name": "🌟爱TV吧🌟"
         }
