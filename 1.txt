@@ -9,6 +9,10 @@
             "name": "📢家庭线路2📢"
         },
         {
+            "url": "http://freeservices.dns.army:8088/tvboxqq/etzy/etzy.json",
+            "name": "📢儿童线路📢"
+        },
+        {
             "url": "http://freeservices.dns.army:8088/tvboxqq/dongmanpingdao/api.json",
             "name": "💖动漫频道💖"
         },
