@@ -9,20 +9,24 @@
             "name": "📢家庭线路2📢"
         },
         {
+            "url": "http://freeservices.dns.army:8088/tvboxqq/alzx/alzx.json",
+            "name": "📢阿里专线📢"
+        },
+        {
             "url": "http://freeservices.dns.army:8088/tvboxqq/etzy/etzy.json",
             "name": "📢儿童线路📢"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvboxqq/dongmanpingdao/api.json",
-            "name": "💖动漫频道💖"
+            "url": "http://freeservices.dns.army:8088/tvboxqq/yxrj/yxrj.json",
+            "name": "📢云星线路📢"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvbox/fengmi/fengmi.json",
-            "name": "👇fengmi👇"
+            "url": "http://freeservices.dns.army:8088/tvboxqq/shenqi/shenqi.json",
+            "name": "📢神器线路📢"
         },
         {
-            "url": "https://la.kstore.space/download/2863/01.txt",
-            "name": "🌟萧洒🌟"
+            "url": "http://freeservices.dns.army:8088/tvboxqq/ygbh/ygbh.json",
+            "name": "📢宝盒线路📢"
         },
         {
             "url": "http://home.jundie.top:81/top98.json",
@@ -67,6 +71,10 @@
         {
             "url": "http://freeservices.dns.army:8088/tvboxqq/daozhangjs/api.json",
             "name": "🌟道长🌟"
+        },
+        {
+            "url": "https://cn.kstore.space/download/2883/0110.txt",
+            "name": "🌟蚂蚁🌟"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/newenergy2000/TVBox/main/tv4k.json",
