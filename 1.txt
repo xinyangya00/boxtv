@@ -9,6 +9,10 @@
             "name": "📢家庭线路2📢"
         },
         {
+            "url": "http://freeservices.dns.army:8088/tvboxqq/xmbsm/api.json",
+            "name": "📢家庭线路3📢"
+        },
+        {
             "url": "http://freeservices.dns.army:8088/tvboxqq/alzx/alzx.json",
             "name": "📢阿里专线📢"
         },
@@ -37,10 +41,6 @@
             "name": "🌟饭太硬🌟"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvboxqq/shaoerpingdao/api.json",
-            "name": "🌟少儿频道🌟"
-        },
-        {
             "url": "http://freeservices.dns.army:8088/tvbox/xiaomi/xiaomi.json",
             "name": "🌟小米🌟"
         },
@@ -65,20 +65,9 @@
             "name": "🌟高山流水2🌟"
         },
         {
-            "url": "https://100km.top/0",
-            "name": "🌟纯1骚0🌟"
-        },
-        {
             "url": "http://freeservices.dns.army:8088/tvboxqq/daozhangjs/api.json",
             "name": "🌟道长🌟"
-        },
-        {
-            "url": "https://cn.kstore.space/download/2883/0110.txt",
-            "name": "🌟蚂蚁🌟"
-        },
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/newenergy2000/TVBox/main/tv4k.json",
-            "name": "🌟爱TV吧🌟"
         }
     ]
+}
 }
