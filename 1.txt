@@ -5,7 +5,7 @@
             "name": "📢家庭线路1📢"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvboxqq/ouge/ouge.json",
+            "url": "http://freeservices.dns.army:8088/tvboxqq/ouge/api.json",
             "name": "📢家庭线路2📢"
         },
         {
@@ -13,61 +13,56 @@
             "name": "📢家庭线路3📢"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvboxqq/alzx/alzx.json",
+            "url": "http://freeservices.dns.army:8088/tvboxqq/alzx/api.json",
             "name": "📢阿里专线📢"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvboxqq/etzy/etzy.json",
+            "url": "http://freeservices.dns.army:8088/tvboxqq/etzy/api.json",
             "name": "📢儿童线路📢"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvboxqq/yxrj/yxrj.json",
+            "url": "http://freeservices.dns.army:8088/tvboxqq/yxrj/api.json",
             "name": "📢云星线路📢"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvboxqq/shenqi/shenqi.json",
+            "url": "http://freeservices.dns.army:8088/tvboxqq/shenqi/api.json",
             "name": "📢神器线路📢"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvboxqq/ygbh/ygbh.json",
+            "url": "http://freeservices.dns.army:8088/tvboxqq/ygbh/api.json",
             "name": "📢宝盒线路📢"
         },
         {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "🌟俊佬🌟"
+            "url": "http://freeservices.dns.army:8088/tvboxqq/xyq/api.json",
+            "name": "📢香佬线路📢"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvbox/fty/fty.json",
-            "name": "🌟饭太硬🌟"
+            "url": "http://freeservices.dns.army:8088/tvboxqq/fty/api.json",
+            "name": "📢饭硬线路📢"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvbox/xiaomi/xiaomi.json",
-            "name": "🌟小米🌟"
+            "url": "http://freeservices.dns.army:8088/tvboxqq/xiaomi/api.json",
+            "name": "📢小米线路📢"
         },
         {
             "url": "http://freeservices.dns.army:8088/tvboxqq/feimao/api.json",
-            "name": "🌟肥猫🌟"
+            "name": "📢肥猫线路📢"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvbox/cainisi/cainisi.json",
-            "name": "🌟菜妮丝🌟"
+            "url": "http://freeservices.dns.army:8088/tvboxqq/cainisi/api.json",
+            "name": "📢菜泥线路📢"
         },
         {
             "url": "http://freeservices.dns.army:8088/tvboxqq/qiaoer/api.json",
-            "name": "🌟巧儿🌟"
+            "name": "📢巧儿线路📢"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvboxqq/gtlsjs/api.json",
-            "name": "🌟高山流水1🌟"
+            "url": "http://freeservices.dns.army:8088/tvboxqq/gtls/api.json",
+            "name": "📢高天流水📢"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvboxqq/gtlsxyq/api.json",
-            "name": "🌟高山流水2🌟"
-        },
-        {
-            "url": "http://freeservices.dns.army:8088/tvboxqq/daozhangjs/api.json",
-            "name": "🌟道长🌟"
+            "url": "http://freeservices.dns.army:8088/tvboxqq/yeyu/api.json",
+            "name": "📢业余线路📢"
         }
     ]
-}
 }
