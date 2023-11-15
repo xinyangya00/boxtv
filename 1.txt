@@ -9,7 +9,7 @@
             "name": "📢家庭线路2📢"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvboxqq/xmbsm/api.json",
+            "url": "http://freeservices.dns.army:8088/tvboxqq/fty/api.json",
             "name": "📢家庭线路3📢"
         },
         {
@@ -37,8 +37,8 @@
             "name": "📢香佬线路📢"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvboxqq/fty/api.json",
-            "name": "📢饭硬线路📢"
+            "url": "http://freeservices.dns.army:8088/tvboxqq/xmbsm/api.json",
+            "name": "📢熊猫线路📢"
         },
         {
             "url": "http://freeservices.dns.army:8088/tvboxqq/xiaomi/api.json",
