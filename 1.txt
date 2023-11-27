@@ -1,6 +1,10 @@
 {
     "urls": [
         {
+            "url": "http://freeservices.dns.army:8088/tvboxqq/vip4k/api.json",
+            "name": "📢秒播线路📢"
+        },  
+        {
             "url": "http://freeservices.dns.army:8088/tvboxqq/duoduo/api.json",
             "name": "📢家庭线路1📢"
         },
