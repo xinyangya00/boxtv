@@ -12,7 +12,7 @@
             "url": "http://freeservices.dns.army:8088/tvboxqq/duanju/api.json",
             "name": "📢短剧专线📢"
         },
-
+ 
         {
             "url": "http://freeservices.dns.army:8088/tvboxqq/duoduo/api.json",
             "name": "📢家庭线路1📢"
@@ -59,6 +59,10 @@
         {
             "url": "http://freeservices.dns.army:8088/tvboxqq/cainisi/api.json",
             "name": "📢菜泥线路📢"
+        },
+        {
+            "url": "http://freeservices.dns.army:8088/tvboxqq/rihou/api.json",
+            "name": "📢日后线路📢"
         },
         {
             "url": "http://freeservices.dns.army:8088/tvboxqq/qiaoer/api.json",
