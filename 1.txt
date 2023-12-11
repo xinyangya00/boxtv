@@ -16,7 +16,7 @@
             "name": "📢儿童线路📢"
         },
         {   "url": "http://freeservices.dns.army:8088/tvboxqq/fty/api.json",
-            "name": "📢饭太硬📢"
+            "name": "📢饭佬线路📢"
         },
         {   "url": "http://freeservices.dns.army:8088/tvboxqq/xiaomi/api.json",
             "name": "📢小米线路📢"
