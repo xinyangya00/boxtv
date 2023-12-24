@@ -1,9 +1,6 @@
 {
     "urls": [
-         {
-            "url": "http://freeservices.dns.army:8088/tvboxqq/vip4k/api.json",
-            "name": "📢秒播线路📢"
-        },  
+ 
         {
             "url": "http://freeservices.dns.army:8088/tvboxqq/alzx/api.json",
             "name": "📢4K专线📢"
@@ -15,6 +12,10 @@
         {   "url": "http://freeservices.dns.army:8088/tvboxqq/etzy/api.json",
             "name": "📢儿童线路📢"
         },
+        {
+            "url": "http://freeservices.dns.army:8088/tvboxqq/wuyi/api.json",
+            "name": "📢无意线路📢"
+        },  
         {   "url": "http://freeservices.dns.army:8088/tvboxqq/fty/api.json",
             "name": "📢饭佬线路📢"
         },
@@ -67,3 +68,4 @@
         }
     ]
 }
+
