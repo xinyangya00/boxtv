@@ -9,8 +9,8 @@
             "name": "小米线路"
         },
         {
-            "url": "http://freeservices.dns.army:8088/tvboxqq/feimao/api.json",
-            "name": "肥猫线路"
+            "url": "http://freeservices.dns.army:8088/tvboxqq/wuyi/api.json",
+            "name": "无意线路"
         },
         {
             "url": "http://freeservices.dns.army:8088/tvboxqq/moyu4k/api.json",
