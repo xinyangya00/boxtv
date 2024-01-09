@@ -25,10 +25,6 @@
             "name": "无意线路"
         },
         {
-            "url": "http://freeservices.dns.army:8088/niaofei/moyu4k/api.json",
-            "name": "摸鱼线路"
-        },
-        {
             "url": "http://freeservices.dns.army:8088/niaofei/vip4k/api.json",
             "name": "黑仔线路"
         },
