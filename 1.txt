@@ -21,10 +21,6 @@
             "name": "蜂蜜影视"
         },
         {
-            "url": "http://freeservices.dns.army:8088/niaofei/wuyi/api.json",
-            "name": "无意线路"
-        },
-        {
             "url": "http://freeservices.dns.army:8088/niaofei/vip4k/api.json",
             "name": "黑仔线路"
         },
