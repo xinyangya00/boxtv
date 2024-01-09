@@ -13,6 +13,10 @@
             "name": "肥猫线路"
         },
        {
+            "url": "http://freeservices.dns.army:8088/niaofei/kaixin/api.json",
+            "name": "开心线路"
+        },
+       {
             "url": "http://freeservices.dns.army:8088/niaofei/fmys/api.json",
             "name": "蜂蜜影视"
         },
