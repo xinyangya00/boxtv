@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "http://freeservices.dns.army:8088/niaofei/fty/api.json",
+            "url": "https://fastly.jsdelivr.net/gh/xinyangya00/wuliao/api.json",
             "name": "饭佬线路"
         },
         {
