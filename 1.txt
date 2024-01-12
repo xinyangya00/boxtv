@@ -1,39 +1,39 @@
 {
     "urls": [
         {
-            "url": "http://freeservices.dns.army:8088/niaofei/fty/api.json",
+            "url": "http://freeservices.dns.army:8088/fty/api.json",
             "name": "饭佬线路"
         },
         {
-            "url": "http://freeservices.dns.army:8088/niaofei/xiaomi/api.json",
+            "url": "http://freeservices.dns.army:8088/xiaomi/api.json",
             "name": "小米线路"
         },
        {
-            "url": "http://freeservices.dns.army:8088/niaofei/feimao/api.json",
+            "url": "http://freeservices.dns.army:8088/feimao/api.json",
             "name": "肥猫线路"
         },
        {
-            "url": "http://freeservices.dns.army:8088/niaofei/kaixin/api.json",
+            "url": "http://freeservices.dns.army:8088/kaixin/api.json",
             "name": "开心线路"
         },
        {
-            "url": "http://freeservices.dns.army:8088/niaofei/fmys/api.json",
+            "url": "http://freeservices.dns.army:8088/fmys/api.json",
             "name": "蜂蜜影视"
         },
         {
-            "url": "http://freeservices.dns.army:8088/niaofei/vip4k/api.json",
+            "url": "http://freeservices.dns.army:8088/vip4k/api.json",
             "name": "黑仔线路"
         },
         {
-            "url": "http://freeservices.dns.army:8088/niaofei/wuai/api.json",
+            "url": "http://freeservices.dns.army:8088/wuai/api.json",
             "name": "吾爱线路"
         },
         {
-            "url": "http://freeservices.dns.army:8088/niaofei/duanju/api.json",
+            "url": "http://freeservices.dns.army:8088/duanju/api.json",
             "name": "短剧线路"
         },
         {
-            "url": "http://freeservices.dns.army:8088/niaofei/etzy/api.json",
+            "url": "http://freeservices.dns.army:8088/etzy/api.json",
             "name": "儿童线路"
         }
     ]
