@@ -13,8 +13,8 @@
             "name": "肥猫线路"
         },
        {
-            "url": "http://freeservices.dns.army:8088/kaixin/api.json",
-            "name": "开心线路"
+            "url": "http://freeservices.dns.army:8088/ouge/api.json",
+            "name": "讴歌线路"
         },
        {
             "url": "http://freeservices.dns.army:8088/fmys/api.json",
