@@ -12,6 +12,11 @@
             "url": "http://freeservices.dns.army:8088/feimao/api.json",
             "name": "肥猫线路"
         },
+        {
+            "url": "http://freeservices.dns.army:8088/moyu/api.json",
+            "name": "摸鱼线路"
+        },
+       {
        {
             "url": "http://freeservices.dns.army:8088/ouge/api.json",
             "name": "讴歌线路"
