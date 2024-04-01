@@ -18,8 +18,8 @@
         },
        {
        {
-            "url": "http://freeservices.dns.army:8088/ouge/api.json",
-            "name": "讴歌线路"
+            "url": "http://freeservices.dns.army:8088/ttkx/api.json",
+            "name": "开心线路"
         },
        {
             "url": "http://freeservices.dns.army:8088/fmys/api.json",
@@ -27,7 +27,7 @@
         },
         {
             "url": "http://freeservices.dns.army:8088/vip4k/api.json",
-            "name": "黑仔线路"
+            "name": "PG线路"
         },
         {
             "url": "http://freeservices.dns.army:8088/wuai/api.json",
