@@ -38,7 +38,7 @@
             "name": "短剧线路"
         },
         {
-            "url": "http://freeservices.dns.army:8088/etzy/api.json",
+            "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
             "name": "儿童线路"
         }
     ]
