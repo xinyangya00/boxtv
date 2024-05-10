@@ -6,15 +6,19 @@
         },
         {
             "url": "http://freeservices.dns.army:8088/xiaomi/api.json",
-            "name": "小米线路"
+            "name": "笑傲线路"
+        },
+         {
+            "url": "http://freeservices.dns.army:8088/ouge/api.json",
+            "name": "讴歌线路"
         },
        {
             "url": "http://freeservices.dns.army:8088/feimao/api.json",
             "name": "肥猫线路"
         },
         {
-            "url": "http://freeservices.dns.army:8088/moyu/api.json",
-            "name": "摸鱼线路"
+            "url": "http://freeservices.dns.army:8088/wxe/api.json",
+            "name": "小二线路"
         },
        
        {
@@ -29,16 +33,13 @@
             "url": "http://freeservices.dns.army:8088/vip4k/api.json",
             "name": "PG线路"
         },
-        {
-            "url": "http://freeservices.dns.army:8088/wuai/api.json",
-            "name": "吾爱线路"
-        },
+      
         {
             "url": "http://freeservices.dns.army:8088/duanju/api.json",
             "name": "短剧线路"
         },
         {
-            "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
+            "url": "http://freeservices.dns.army:8088/etzy/api.json",
             "name": "儿童线路"
         }
     ]
